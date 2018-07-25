@@ -1,0 +1,91 @@
+body {
+  background-color: #351431;
+  font-family: 'Montserrat', sans-serif;
+  color: #8D99AE;
+  font-size: 15px;
+  line-height: normal;
+}
+
+h1, h2, h3 {
+  color: #124E78;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 22px;
+  line-height: 20px;
+}
+
+h1 {
+  color: #A63A50;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+a {
+  color: #124E78;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.card-whitexx {
+  background: rgb(240,240,240);
+  padding: 15px 24px 20px 24px;
+  margin: 12px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.text-center {
+  text-align: center;
+}
+
+#profile {
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.card-padding {
+  padding: 10px 24px 10px 24px;
+}
+
+.text-larger{
+  font-size: 17px;
+}
+
+.img-size {
+  width: 220px;
+}
+
+.img-rounded {
+  border-radius: 3px;
+}
+
+.img-padding {
+  padding: 5px 10px 5px 0px;
+}
+
+.text-smaller {
+  font-size: 13px;
+}
